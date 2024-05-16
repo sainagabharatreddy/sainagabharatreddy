@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-<!--
 **sainagabharatreddy/sainagabharatreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 # 💫 About Me:
-I'm currently A Student with innovation📝 and looking to collaborate on software development  🛠️.<br><br>I'm currently learning chrome extension manifest  redux , dev tools 📘, and you can ask me about  Full Stack Development🤖.<br><br>I'm currently also exploring new opportunities 🌟.<br><br>I'm a student pursuing a B.Tech degree with ambitions of becoming entrepreneur 💼.<br><br>Fun fact: I'm lazy but smart 😅, and I'm eagerly looking forward to developing new innovative applications 🚀.
+✨ I'm currently A Student with innovation📝 and looking to collaborate on software development  🛠️.
+✨ <br><br>I'm currently learning chrome extension manifest  redux , dev tools 📘, and you can ask me about  Full Stack Development🤖.<br><br>
+✨ I'm currently also exploring new opportunities 🌟.<br><br>
+✨ I'm a student pursuing a B.Tech degree with ambitions of becoming entrepreneur 💼.<br><br>
+✨ Fun fact: I'm lazy but smart 😅, and I'm eagerly looking forward to developing new innovative applications 🚀.
 
 
 ## 🌐 Socials:
@@ -35,4 +38,3 @@ I'm currently A Student with innovation📝 and looking to collaborate on softwa
 [![](https://visitcount.itsvg.in/api?id=sainagabharatreddy&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
